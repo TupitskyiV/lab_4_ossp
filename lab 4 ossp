@@ -1,0 +1,7 @@
+cd "C:\Users\Влад\Desktop\Операційні системи\2025_Typitsyi_V_V_Lab_4"
+git init
+git add .
+git commit -m "Initial commit: lab 4 OSSP"
+git remote add origin https://github.com/TupitskyiV/lab_4_ossp.git
+git branch -M main
+git push -u origin main
