@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1748461881 source:c:\users\Влад\desktop\Операційні системи\2025_tupitskyi_v_v_lab_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"HardwareComponent.h"
+
+1748463276 c:\users\Влад\desktop\Операційні системи\2025_tupitskyi_v_v_lab_4\hardwarecomponent.h
+	<stdio.h>
+
+1748463315 source:c:\users\Влад\desktop\Операційні системи\2025_tupitskyi_v_v_lab_4\hardwarecomponent.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"HardwareComponent.h"
+
